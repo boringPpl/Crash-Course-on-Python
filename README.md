@@ -8,6 +8,8 @@
 > 
 > Either way, we highly recommend you to go through each concepts at least 3-5 times with different explanation, exercises to profoundly understand it.
 
+*If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to `https://www.boringppl.com/`
+
 # Resource:
 #### Content:
 - [Python tutorials for beginner](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (Youtube videos 1-9) 20 hours
@@ -104,6 +106,3 @@
 - [ ] **Bugs and Debugs strategies**
     - [ ] Commonly faced bugs and debug strategies 
     - [ ] Try and Except statement
-    
-----------------------------------------------------------------------------------  
-*If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to `https://www.boringppl.com/`*
