@@ -106,4 +106,4 @@
     - [ ] Try and Except statement
     
 ----------------------------------------------------------------------------------  
-** If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to https://www.boringppl.com/ **
+**If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to `https://www.boringppl.com/`**
