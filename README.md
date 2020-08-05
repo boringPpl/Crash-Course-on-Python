@@ -14,7 +14,6 @@
 #### Content:
 - [Python tutorials for beginner](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (Youtube videos 1-9) 20 hours
 - [Automate the boring stuffs](http://automatetheboringstuff.com/) (free text book) 9.5 hours
-- [Using Python for automation](https://www.linkedin.com/learning/using-python-for-automation/organizing-directories?u=2104756) (paid course on Linkedin learn)
 
 #### Exercises:
 - [Hackerrank](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
@@ -24,9 +23,6 @@
 
 # Milestone projects
 - [ ] [Auto parsing and renaming files](https://www.youtube.com/watch?v=ve2pmm5JqmI&t=353s)
-- [ ] [Automate files in the local computer](https://www.linkedin.com/learning/using-python-for-automation/organizing-directories?u=2104756)
-- [ ] [Web Scrapping with Beautiful Soup](https://www.linkedin.com/learning/using-python-for-automation/organizing-directories?u=2104756)
-- [ ] [Automate Web Browsing with Selenium](https://www.linkedin.com/learning/using-python-for-automation/organizing-directories?u=2104756)
 - [ ] [Automate Tinder swiping](https://www.youtube.com/watch?v=lvFAuUcowT4&t=2s)
 
 # Knowledge checkpoints
