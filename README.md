@@ -49,7 +49,7 @@
 - [ ] Week 4: Managing Cloud Instances at Scale (5 hours)
 
 ### Milestone 6: Automating Real-World Tasks with Python (4 weeks)
-( [***content***](https://www.notion.so/Milestone-1-Picking-up-Python-foundation-6-weeks-1bf53587b23b4760b3f8c9498267b3c1) | exercises )
+( [**content**](https://www.notion.so/Milestone-1-Picking-up-Python-foundation-6-weeks-1bf53587b23b4760b3f8c9498267b3c1) | exercises )
 - [ ] Week 1: Manipulating Images (3 hours)
 - [ ] Week 2: Interacting with Web Services (3 hours)
 - [ ] Week 3: Automatic Output Generation (3 hours)
