@@ -1,6 +1,4 @@
-# Roadmap: Basic Python for automation
-
-*If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to `https://www.boringppl.com/`*
+# Roadmap: Python Programming from Foundation to Application (6 months)
 
 > There are different approaches to learning, we categorize them into bottom up and top down approaches
 > 
@@ -10,95 +8,43 @@
 > 
 > Either way, we highly recommend you to go through each concepts at least 3-5 times with different explanation, exercises to profoundly understand it.
 
-# Resource:
-#### Content:
-- [Python tutorials for beginner](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (Youtube videos 1-9) 20 hours
-- [Automate the boring stuffs](http://automatetheboringstuff.com/) (free text book) 9.5 hours
+### [Milestone 1: Picking up Python foundation (6 weeks)](https://www.notion.so/Milestone-1-Picking-up-Python-foundation-6-weeks-1bf53587b23b4760b3f8c9498267b3c1)
+- [ ] Week 1: Hello Python! (4 hours)
+- [ ] Week 2: Basic Python Syntax (4 hours)
+- [ ] Week 3: Loops (4 hours)
+- [ ] Week 4: Strings, Lists and Dictionaries (6 hours)
+- [ ] Week 5: Object Oriented Programming (6 hours)
+- [ ] Week 6: Final Project (6 hours)
 
-#### Exercises:
-- [Hackerrank](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
-- [Snakify](https://snakify.org/en/lessons/print_input_numbers/)
-- [Project Euler](https://projecteuler.net/archives)
+### Milestone 2: Using Python to Interact with the Operating System (7 weeks)
+- [ ] Week 1: Getting Your Python On (5 hours)
+- [ ] Week 2: Managing Files with Python (5 hours)
+- [ ] Week 3: Regular Expressions (5 hours)
+- [ ] Week 4: Managing Data and Processes (4 hours)
+- [ ] Week 5: Testing in Python (6 hours)
+- [ ] Week 6: Bash Scripting (4 hours)
+- [ ] Week 7: Final Project (2 hours)
 
+### Milestone 3: Introduction to Git and GitHub (4 weeks)
+- [ ] Week 1: Introduction to Version Control (5 hours)
+- [ ] Week 2: Using Git Locally (4 hours)
+- [ ] Week 3: Working with Remotes (4 hours)
+- [ ] Week 4: Collaboration (4 hours)
 
-# Milestone projects
-- [ ] [Auto parsing and renaming files](https://www.youtube.com/watch?v=ve2pmm5JqmI&t=353s)
-- [ ] [Automate Tinder swiping](https://www.youtube.com/watch?v=lvFAuUcowT4&t=2s)
+### Milestone 4: Troubleshooting and Debugging Techniques (4 weeks)
+- [ ] Week 1: Troubleshooting Concepts (5 hours)
+- [ ] Week 2: Slowness (5 hours)
+- [ ] Week 3: Crashing Programs (5 hours)
+- [ ] Week 4: Managing Resources (5 hours)
 
-# Knowledge checkpoints
+### Milestone 5: Configuration Management and the Cloud (4 weeks)
+- [ ] Week 1: Automating with Configuration Management (4 hours)
+- [ ] Week 2: Deploying Puppet (4 hours)
+- [ ] Week 3: Automation in the Cloud (4 hours)
+- [ ] Week 4: Managing Cloud Instances at Scale (5 hours)
 
-- [ ] [**Milestone 0: Set up the environment**](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1) (You can skip this and come back later if the syllabus you are taking provies the coding editor)
-    - [ ] Install Python 3
-    - [ ] Install the IDE (eg. Pycharm, Visual Studio Code, etc) 
-    - [ ] Execute and run code with terminal commands (eg. cd, ls, python3, etc)
-
-- [ ] **Milestone 1: Learning Basic Python syntax**
-
-    - [ ] get to know different data types (eg. `str()`, `int()`, `list()`)
-    - [ ] variables and naming convention
-    - [ ] comment # 
-    - [ ] `print()` 
-        - [ ] one variables
-        - [ ] multiple variables using `format()`
-    - [ ] read the input data from users using `input()`
-        - [ ] restrict the data type using `str()`, `int()`, `list()` ...
-
-- [ ] **Milestone 2: Working with numeric data - integer and float**
-    - [ ] Arithmetic Operators (output: result)
-    - [ ] Comparison (output: True/ False)
-    - [ ] Shortcut. Eg. `num += 1` 
-    - [ ] Commonly used methods: absolute `abs()`, `round()`, etc
-    - [ ] Work with numbers in string format. Eg. "3"
-    - [ ] Advanced math `import math`
-- [ ] **Milestone 3: Working with textual data - string**
-    - [ ] Single quotes vs. Double quotes
-    - [ ] Create multi-line string using triple quotes `'''` or `\n`
-    - [ ] Commonly used functions and methods in string
-        - [ ] Check data types: `type()`
-        - [ ] Check string length: `len()`
-        - [ ] Index
-        - [ ] `lower()` or `upper()` 
-        - [ ] Concatination 
-        - [ ] `replace()`
-- [ ] **Milestone 4: Working with boolean**
-- [ ] **Milestone 5: Conditional statement**
-    - [ ] If Else
-    - [ ] If Elif Else
-- [ ] **Milestone 6: Loops and iteration**
-    - [ ] While loop
-    - [ ] For loop
-- [ ] **Milestone 7: Function**
-    - [ ] Write your own function
-    - [ ] 3rd party function
-    - [ ] Global and Local scopes
-
-- [ ] **Milestone 8: Working with data in a container - list, tuple, set, dictionary**
-    - [ ] List
-        - [ ] access a list using loop
-        - [ ] `append()`
-        - [ ] list comprehension
-    - [ ] Dictionary
-        - [ ] understand key - value pair
-        - [ ] access value from a key: dict['key']
-        - [ ] add new key to a dict
-        - [ ] update many keys in one shot: `update()`
-        - [ ] delete a key and its value: `pop()` or `del`
-        - [ ] check what keys are there: `dict.keys()`
-        - [ ] check what values are there: `dict.values()`
-        - [ ] check what key-value pairs are there: `dict.items()`
-    - [ ] Tuple and Set
-
-- [ ] **Milestone 8: Modules, Libraries**
-    - [ ] Modules
-        - [ ] create modules
-        - [ ] variables in module
-        - [ ] name the module, create an alias for the module
-        - [ ] import module
-        - [ ] commonly used modules: OS, csv, etc
-    - [ ] Libraries
-        - [ ] import libraries, create an alias for the module
-        - [ ] commonly used libraries for automation: beautiful soup, selenium, etc
-
-- [ ] **Bugs and Debugs strategies**
-    - [ ] Commonly faced bugs and debug strategies 
-    - [ ] Try and Except statement
+### Milestone 6: Automating Real-World Tasks with Python (4 weeks)
+- [ ] Week 1: Manipulating Images (3 hours)
+- [ ] Week 2: Interacting with Web Services (3 hours)
+- [ ] Week 3: Automatic Output Generation (3 hours)
+- [ ] Week 4: Putting It All Together (3 hours)
