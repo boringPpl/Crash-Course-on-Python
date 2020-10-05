@@ -8,16 +8,18 @@
 > 
 > Either way, we highly recommend you to go through each concepts at least 3-5 times with different explanation, exercises to profoundly understand it.
 
-0. Introduction to Python programming. Installation. Setup
-1. Basic Python syntax
-2. Data types, Variables, Expressions
-3. Functions
-4. Conditionals. If, Else, Elif
-5. While Loops
-6. For Loops
-Optional: Recursion
-7. String
-8. List
-9. Dictionaries
-Optional: OOP - Object-Oriented Programming
+## Key concepts
+
+- [ ] 0. Introduction to Python programming. Installation. Setup
+- [ ] 1. Basic Python syntax
+- [ ] 2. Data types, Variables, Expressions
+- [ ] 3. Functions
+- [ ] 4. Conditionals. If, Else, Elif
+- [ ] 5. While Loops
+- [ ] 6. For Loops
+- [ ] Optional: Recursion
+- [ ] 7. String
+- [ ] 8. List
+- [ ] 9. Dictionaries
+- [ ] Optional: OOP - Object-Oriented Programming
 
