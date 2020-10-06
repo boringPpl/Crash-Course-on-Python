@@ -10,7 +10,7 @@ or do something else with it if needed.
 '''
 
 def find_lucky_number(name):
-  luck_number = len(name) * 8
+  luck_number = ___
   ___ = "Hi " + name + "! Your lucky number is " + str(number)
   ___
 	    
