@@ -1,14 +1,13 @@
 ''' Question 2.8:
-Most hard drives are divided into sectors of 512 bytes each. 
-Our disk has a size of 32 GB. 
-Fill in the blank to calculate how many sectors the disk has.
+This code is supposed to take two numbers, divide one by another 
+so that the result is equal to 1, and display the result on the screen. 
+Unfortunately, there is an error in the code. 
+Find the error and fix it, so that the output is correct.'''
 
-Note: Your result should be in the format of just a number, not a sentence.
-'''
+numerator = 10
+denominator = 0
+result = numerator / denominator
+print()
 
-disk_size = 32*1024*1024*1024
-sector_size = 512
-sector_amount = ___
 
-print(sector_amount)
 

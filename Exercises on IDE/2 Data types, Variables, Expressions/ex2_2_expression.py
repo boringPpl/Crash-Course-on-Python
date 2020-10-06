@@ -1,13 +1,14 @@
 ''' Question 2.2:
-This code is supposed to take two numbers, divide one by another 
-so that the result is equal to 1, and display the result on the screen. 
-Unfortunately, there is an error in the code. 
-Find the error and fix it, so that the output is correct.'''
+Combine the variables to display the sentence 
+"I love interactive videos!"
+'''
 
-numerator = 10
-denominator = 0
-result = numerator / denominator
+word1 = "I"
+word2 = "!"
+word3 = "videos"
+word4 = "interactive"
+word5 = "love"
+
 print()
-
 
 

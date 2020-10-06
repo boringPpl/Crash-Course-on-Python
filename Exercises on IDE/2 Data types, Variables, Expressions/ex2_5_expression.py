@@ -1,9 +1,14 @@
 ''' Question 2.5:
-Fill in the blanks so that the code prints 
-"I am learning Python programming with interactive videos".
+Most hard drives are divided into sectors of 512 bytes each. 
+Our disk has a size of 32 GB. 
+Fill in the blank to calculate how many sectors the disk has.
+
+Note: Your result should be in the format of just a number, not a sentence.
 '''
 
-programming_language = ___
-method = ___
-print("I am learning " + programming_language + " with " + method)
+disk_size = 32*1024*1024*1024
+sector_size = 512
+sector_amount = ___
+
+print(sector_amount)
 

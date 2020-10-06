@@ -1,7 +1,10 @@
 ''' Question 2.4:
-This code is supposed to display "5 + 3 = 8" on the screen, but there is an error. 
-Find the error in the code and fix it, so that the output is correct.
+Keeping in mind there are 86400 seconds per day, 
+write a program that calculates how many seconds there are in a year, 
+if a year is 365 days.Print the result on the screen.
+
+Note: Your result should be in the format of just a number, not a sentence.
 '''
 
-print("2 + 2 = " + (2 + 2))
+
 

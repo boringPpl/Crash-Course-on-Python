@@ -1,14 +1,9 @@
 ''' Question 2.3:
-Combine the variables to display the sentence 
-"I love interactive videos!"
+Fill in the blanks so that the code prints 
+"I am learning Python programming with interactive videos".
 '''
 
-word1 = "I"
-word2 = "!"
-word3 = "videos"
-word4 = "interactive"
-word5 = "love"
-
-print()
-
+programming_language = ___
+method = ___
+print("I am learning " + programming_language + " with " + method)
 
