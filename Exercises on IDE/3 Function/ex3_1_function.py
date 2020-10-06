@@ -18,6 +18,6 @@ trip_in_miles = ___
 # 3) Fill in the blank to print the result of the conversion
 print("The distance in miles is " + ___)
 
-# 4) Calculate the round-trip in kilometers by doubling the result,
+# 4) Calculate the round-trip in miles by doubling the result,
 #    and fill in the blank to print the result
 print("The round-trip in miles is " + ___)
