@@ -1,18 +1,18 @@
 ''' Question 3.2:
-This function compares two numbers and returns them in decreasing order.
+Write a find_lucky_number function. Your lucky number is equal to the length of your name times 8.
+The function receives a name as parameter. And return a message. 
+Fill in the blanks to complete the code to make it work.
 
-Fill in the blanks, so the print statement displays the result of the function call in order.
-Hint: if a function returns multiple values, don't forget to store these values in multiple variables
+
+Note: Instead of printing the message, we will return the message. 
+This way, the calling line can print the message, 
+or do something else with it if needed. 
 '''
 
-# This function compares two numbers and returns them in increasing order.
-def order_numbers(number1, number2):
-	if number2 __ number1:
-		return number1, number2
-	else:
-		return number2, number1
-
-# Fill in the blanks so the print statement displays the result of the function call
-___, ___ = order_numbers(25, 26)
-print(bigger, smaller)
-
+def find_lucky_number(name):
+  luck_number = len(name) * 8
+  ___ = "Hi " + name + "! Your lucky number is " + str(number)
+  ___
+	    
+print(find_lucky_number("Kay"))
+print(find_lucky_number("Cameron"))
