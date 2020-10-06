@@ -1,23 +1,23 @@
 ''' Question 3.1:
-This function converts miles to kilometers (km).
-1. Complete the function to return the result of the conversion
-2. Call the function to convert the trip distance from miles to kilometers
+This function converts kilometers (km) to miles.
+1. Complete the function. Your function receive the input kilometers, and return the value miles
+2. Call the function to convert the trip distance from kilometers to miles
 3. Fill in the blank to print the result of the conversion
-4. Calculate the round-trip in kilometers by doubling the result, and fill in the blank to print the result
+4. Calculate the round-trip in miles by doubling the result, and fill in the blank to print the result
 '''
 
 # 1) Complete the function to return the result of the conversion
-def convert_distance(miles):
-	km = miles * 1.6  # approximately 1.6 km in 1 mile
+def convert_distance(km):
+	miles = km * 0.621  # 1km is equal to approximately 0.621 miles
 
-my_trip_miles = 60
+trip_in_km = 50
 
-# 2) Convert my_trip_miles to kilometers by calling the function above
-my_trip_km = ___
+# 2) Convert trip_in_km to miles by calling the function above
+trip_in_miles = ___
 
 # 3) Fill in the blank to print the result of the conversion
-print("The distance in kilometers is " + ___)
+print("The distance in miles is " + ___)
 
 # 4) Calculate the round-trip in kilometers by doubling the result,
 #    and fill in the blank to print the result
-print("The round-trip in kilometers is " + ___)
+print("The round-trip in miles is " + ___)

@@ -13,6 +13,6 @@ def order_numbers(number1, number2):
 		return number2, number1
 
 # Fill in the blanks so the print statement displays the result of the function call
-___, ___ = order_numbers(100, 99)
-print(smaller, bigger)
+___, ___ = order_numbers(25, 26)
+print(bigger, smaller)
 

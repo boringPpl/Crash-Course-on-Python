@@ -1,14 +1,17 @@
 ''' Question 3.3:
-Let's revisit our lucky_number function. 
-We want to change it, so that instead of printing the message, 
-it returns the message. This way, the calling line can print the message, 
+Write a cal_lucky_number function. Your lucky number is equal to the length of your name times 8.
+The function receives a name as parameter. And return a message. 
+Fill in the blanks to complete the code to make it work.
+
+
+Note: Instead of printing the message, we will return the message. 
+This way, the calling line can print the message, 
 or do something else with it if needed. 
-ill in the blanks to complete the code to make it work.
 '''
 
-def lucky_number(name):
-  number = len(name) * 9
-  ___ = "Hello " + name + ". Your lucky number is " + str(number)
+def find_lucky_number(name):
+  luck_number = len(name) * 8
+  ___ = "Hi " + name + "! Your lucky number is " + str(number)
   ___
 	    
 print(lucky_number("Kay"))
