@@ -3,14 +3,14 @@ Fill in the __ to print output the text on the screen
 '''
 
 # Output: Hello World
-print(__)
+print("Hello World")
 
 # Output: Hello [your name]
-print(__)
+print()
 
 # Output: I love interactive videos!
-print(__)
+print()
 
 # Output: How to print "Hello World"?
-print(__)
+print()
 
