@@ -1,18 +1,24 @@
 ''' Question 3.2:
-Write a find_lucky_number function. Your lucky number is equal to the length of your name times 8.
-The function receives a name as parameter. 
-And return a message that mentioned your name, and your lucky number. 
-Fill in the blanks to complete the code to make it work
-
-Note: Instead of printing the message, we will return the message. 
-This way, the calling line can print the message, 
-or do something else with it if needed. 
+This function converts kilometers (km) to miles.
+1. Complete the function. Your function receive the input kilometers, and return the value miles
+2. Call the function to convert the trip distance from kilometers to miles
+3. Fill in the blank to print the result of the conversion
+4. Calculate the round-trip in miles by doubling the result, and fill in the blank to print the result
 '''
 
-def find_lucky_number(name):
-  luck_number = ___
-  ___ = "Hi " + name + "! Your lucky number is " + str(number)
-  ___
-	    
-print(find_lucky_number("Kay"))
-print(find_lucky_number("Cameron"))
+# 1) Complete the function to return the result of the conversion
+def convert_distance(km):
+	miles = km * 0.621  # 1km is equal to approximately 0.621 miles
+	return miles
+
+trip_in_km = 50
+
+# 2) Convert trip_in_km to miles by calling the function above
+trip_in_miles = convert_distance(trip_in_km)
+
+# 3) Fill in the blank to print the result of the conversion
+print("The distance in miles is " + str(trip_in_miles))
+
+# 4) Calculate the round-trip in miles by doubling the result,
+#    and fill in the blank to print the result
+print("The round-trip in miles is " + str(trip_in_miles * 2))
