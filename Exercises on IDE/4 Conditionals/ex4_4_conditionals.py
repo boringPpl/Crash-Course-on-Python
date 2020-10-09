@@ -1,35 +1,19 @@
-'''Question 4.4:
-Complete the body of the format_name function. 
-This function receives the first_name and last_name parameters 
-and then returns a properly formatted string.
+''' Question 4.4:
+This function compares two numbers and returns them in decreasing order.
 
-Specifically:
-If both the last_name and the first_name parameters are supplied, 
-the function should return like so:
+Fill in the blanks, so the print statement displays the result of the function call in order.
 
-	print(format_name("Ella", "Fitzgerald"))
-	Name: Fitzgerald, Ella
-
-If only one name parameter is supplied (either the first name or the last name), 
-the function should return like so:
-
-	print(format_name("Adele", ""))
-	Name: Adele
-or
-	print(format_name("", "Einstein"))
-	Name: Einstein
-
-Finally, if both names are blank, the function should return the empty string:
-
-	print(format_name("", ""))
+Note: if a function returns multiple values, don't forget to store these values in multiple variables
 '''
 
-def format_name(first_name, last_name):
-	# code goes here
-	
-	return string 
+# This function compares two numbers and returns them in increasing order.
+def order_numbers(number1, number2):
+	if number2 __ number1:
+		return number1, number2
+	else:
+		return number2, number1
 
-print(format_name("Ernest", "Hemingway")) # Should return the string "Name: Hemingway, Ernest"
-print(format_name("", "Madonna")) # Should return the string "Name: Madonna"
-print(format_name("Voltaire", "")) # Should return the string "Name: Voltaire"
-print(format_name("", "")) # Should return an empty string
+# Fill in the blanks so the print statement displays the result of the function call
+___, ___ = order_numbers(25, 26)
+print(bigger, smaller)
+
